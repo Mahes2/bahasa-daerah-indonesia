@@ -4,7 +4,7 @@
 [![Static Badge](https://img.shields.io/badge/API%20Documentation-Swagger%20UI-green)](#)
 
 
-This repository provides a comprehensive list of bahasa daerah (local languages) in Indonesia. It is a Completely Free API Project brought to you.
+This repository provides a comprehensive list of bahasa daerah (local languages) in Indonesia. It is a Completely Free Open API Project brought to you.
 
 ## 📚 API Documentation
 
