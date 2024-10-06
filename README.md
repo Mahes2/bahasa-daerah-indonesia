@@ -8,7 +8,7 @@ This repository provides a comprehensive list of bahasa daerah (local languages)
 
 ## 📚 API Documentation
 
-[Swagger UI](http://api.codespade.com:4517/codespade/api/bahasa-daerah/swagger-ui/index.html)
+[Swagger UI](https://api.codespade.com/bahasa-daerah/swagger-ui/index.html)
 
 ## 🚀 Usage
 
